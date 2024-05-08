@@ -1,2 +1,0 @@
-C:\Users\rocke\source\repos\PingPongGame_aas2213214\PingPongGame_aas2213214\x64\Debug\PingPongGame_aas2213214.vcxproj.CopyComplete
-C:\Users\rocke\OneDrive\Desktop\PingPongGame_aas2213214\PingPongGame_aas2213214\x64\Debug\PingPongGame_aas2213214.vcxproj.CopyComplete
